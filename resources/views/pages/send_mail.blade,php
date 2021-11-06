@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Gủi mail</title>
+</head>
+<body>
+	<h1>Mail được gửi từ : {{$name}}</h1>
+	<h4>Nội dung :{{$body}}</h4>
+</body>
+</html>
